@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+*.pkl
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
+*.log
+npm-debug.log*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data dumps / artifacts
+*.sqlite*
+*.db
+*.tar
+*.zip
+
+# Generated assets
+*.cache
+coverage/
